@@ -1,0 +1,5 @@
+/* @if NODE_ENV=='dev' */
+// p{color: blue; display: flex; font: normal 22px PingFang SC Regular;}
+#flexBox {display: flex; width: 200px; height: 200px; flex-direction: column; justify-content: center; align-items: center; p{margin: 6px;font-size: 20px;}}
+
+/* @endif */
