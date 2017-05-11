@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     align-content: center;       
 }
-#flexBox>p,#result {
+#flexBox>p,#resultdata {
 	font-size: 0.5rem;    
     background-color: #eee;
     opacity: 0.55;
@@ -18,6 +18,6 @@ body {
     margin: 0.1rem;
     border-radius:0.2rem;
 }
-#result{
+#resultdata{
     height: 7.8rem;
 }
